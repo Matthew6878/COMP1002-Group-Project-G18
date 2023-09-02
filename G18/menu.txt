@@ -1,0 +1,50 @@
+Menu:	                Price:
+Chinese Cuisine:	
+Peking Roasted Duck   	HK$20.00 
+Kung Pao Chicken      	HK$35.00 
+Sweet and Sour Pork   	HK$26.00 
+Dim Sum            	HK$15.00 
+Ma Po Tofu            	HK$29.00 
+	
+Japanese Cuisine:	
+Sushi               	HK$40.00 
+Sashimi             	HK$38.00 
+Unagi - Grilled Eel  	HK$25.00 
+Tempura              	HK$34.00 
+Soba (Buckwheat Noodles) and Udon (Wheat Noodles) 	HK$45.00 
+	
+Spanish Cuisine:	
+Paella Valenciana 	HK$36.00 
+Patatas bravas    	HK$39.00 
+Jamón             	HK$52.00 
+Tortilla          	HK$45.00
+	
+Lebanese Cuisine:	
+Baba Ganoush      	HK$56.00 
+Fattoush          	HK$68.00 
+Falafel           	HK$67.00 
+	
+Drinks:
+Coffee (hot)            HK$6.00
+Coffee (cold)           HK$8.00
+Soft Drink              HK$6.00
+Mr.Juice                HK$7.00
+Pearl milk tea          HK$8.00
+
+
+udated menu:
+Pearl milk teaHK8.0
+udated menu:
+Pearl milk teaHK9.8
+udated menu:
+Pearl milk teaHK10.0
+udated menu:
+Pearl milk teaHK15.0
+udated menu:
+Pearl milk teaHK30.0
+udated menu:
+FalafelHK70.0
+udated menu:
+Falafel     HK$     72.0
+udated menu:
+Tortilla     HK$45.0
